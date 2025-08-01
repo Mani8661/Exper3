@@ -16,6 +16,13 @@ const products = [
     name: "DSLR Camera",
     price: 499.99,
     image: "https://www.bestreviewguide.com/images/category/DSLR%20Cameras%20-%20What%20To%20Look%20For.jpeg"
+  },
+  // New Product Added (iPhone 13 Pro)
+  {
+    id: 4, // Unique ID for the new product
+    name: "iPhone 13 Pro",
+    price: 999.99,
+    image: "https://tse1.mm.bing.net/th/id/OIP.wbsk7Bvys1l4rib-sFwUjQHaIw?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
   }
 ];
 
